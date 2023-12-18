@@ -1,0 +1,8 @@
+Cerbo supports the following protocols
+ve.direct
+ve.can
+ve.bus
+
+ve.direct is rs232 p2p
+ve.can uses rj45 and can be daisy chained
+   must use terminators on beginning and end
